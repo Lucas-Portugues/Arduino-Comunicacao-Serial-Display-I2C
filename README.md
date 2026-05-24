@@ -11,3 +11,6 @@ Este projeto permite enviar mensagens de texto do computador direto para uma tel
 ## Componentes Usados
 * 1x Arduino Uno
 * 1x Display LCD 16x2 com Módulo I2C integrado
+  
+## Link do projeto:
+https://www.tinkercad.com/things/9B7LQjUEfvN-comunicacao-serial-display-i2c?sharecode=KtrRO1v6se12UVgq--hkwOaDNf2jK8XOJcFNVI2ndmY
